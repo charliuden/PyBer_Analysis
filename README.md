@@ -24,4 +24,15 @@ During the January - April period of 2019, total rural fares remained within the
 
 ## Summary
 
-need statement summarizing three business recommendations addressing disparities among the city types. 
+### Disparities Across City Types
+1. Urban cities have the greatest total ride fare, but on average their drivers are paid the least per ride. 
+2. The average cost per ride is high in rural cities.
+3. The total rides : total drivers ratio is relatively small in rural cities, suggesting limited access to rides. 
+
+### Reccommendations
+1. PyBer could increase the cost per ride in urban areas to better comensate its drivers. 
+2. Increase the number of drivers in rural cities -this may decrease cost per ride as well as provide more access to rides in rural areas.
+3. Any increases in cost per fare shuold occur at the start of the year when total fare is lowest for all city types. 
+ 
+
+
